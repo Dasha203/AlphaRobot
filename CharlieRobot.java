@@ -33,7 +33,7 @@ public class CharlieRobot extends BetaRobot{
 	
 
 	{
-
+		//test
 		int i = 0;
 
 		if (moveDownRight() == true) {
